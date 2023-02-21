@@ -1,4 +1,4 @@
-### Hi friends <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif">  i`m mobile programmer (
+### Hi friends <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='20'>  i`m mobile programmer 
 
 <!--
 **amonovfozil/amonovfozil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
