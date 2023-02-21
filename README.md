@@ -1,17 +1,13 @@
-### Hi friends <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='30'>  i`m mobile programmer 
+### Hi friends <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='30'>  i`m Amonov Fozil
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekkhabibullaev&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekkhabibullaev" /> </p>
 
-### Hi, I'm Azizbek Khabibullaev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-🔥 I make videos on YouTube about software development. <br />
+🔥 I make app for mobile on flutter framework. <br />
 ❤️ I work remotely and like to travel a lot.
 
 
-<a href="https://www.youtube.com/c/AzizbekKhabibullaev" target="_blank">
-    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
+<a href="https://instagram.com/amonov_fozil?igshid=ZDdkNTZiNTM=" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/009/673/727/original/glossy-instagram-3d-render-icon-free-png.png" width="30px">
 </a>
 
 <br />
