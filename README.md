@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi friends <img crs='https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy_s.gif?cid=ecf05e47yu3dejkljhlav0imkt74fcfsp6bdr6k2pu6hjwky&rid=giphy_s.gif&ct=s'>  i`m mobile programmer (
 
 <!--
 **amonovfozil/amonovfozil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
