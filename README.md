@@ -1,4 +1,4 @@
-### Hi friends <img crs="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy_s.gif?cid=ecf05e47yu3dejkljhlav0imkt74fcfsp6bdr6k2pu6hjwky&rid=giphy_s.gif&ct=s" width="30px">  i`m mobile programmer (
+### Hi friends <img crs="<iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>" width="30px">  i`m mobile programmer (
 
 <!--
 **amonovfozil/amonovfozil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
