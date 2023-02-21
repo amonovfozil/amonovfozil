@@ -16,8 +16,8 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" width="30px"></code>
-<code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
+<code><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ObJbOfJnx4QIPUq9.png" width="30px"></code>
+<code><img src="https://image.pngaaa.com/393/23393-middle.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
