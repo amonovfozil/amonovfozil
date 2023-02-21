@@ -15,7 +15,7 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="30px"></code>
 <code><img src="https://www.kindpng.com/picc/m/81-814934_figma-logo-png-transparent-png.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/adobe-photoshop-icon-png/adobe-photoshop-icon-png-8.jpg" width="30px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/657/999/png-clipart-coreldraw-logo-computer-software-cdr-balloon-computer-wallpaper.png" width="30px"></code>
+<code><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/coreldraw_macos_bigsur_icon_190270.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
