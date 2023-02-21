@@ -2,19 +2,21 @@
 
 
 
-🔥 I make app for mobile on flutter framework. <br />
+📲 I make app for mobile on flutter framework. <br />
+💻 I make UI/UX for mobile or PC on figma <br />
+💻 I make logo for business,company on Photoshop,Illustrator <br />
 ❤️ I work remotely and like to travel a lot.
 
 
 <a href="https://instagram.com/amonov_fozil?igshid=ZDdkNTZiNTM=" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/009/673/727/original/glossy-instagram-3d-render-icon-free-png.png" width="30px">
-</a>
-
+</a> 
+-👈 bu instagram sahifam.
 <br />
 
 ### Languages and tools I work with:
 
-<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
