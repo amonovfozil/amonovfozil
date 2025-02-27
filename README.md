@@ -4,7 +4,7 @@
 
 📲 I make app for mobile on flutter framework. <br />
 💻 I make UI/UX for mobile or PC on figma <br />
-❤️ I work remotely and like to travel a lot.
+❤️ I work remotely and like to travel a lot.<br />
 
 
 
