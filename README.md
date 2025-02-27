@@ -12,7 +12,7 @@
 
 <code><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ObJbOfJnx4QIPUq9.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="30px"></code>
-<code><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="30px"></code>
 
 
 <br />
