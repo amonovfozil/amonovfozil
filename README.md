@@ -4,7 +4,6 @@
 
 📲 I make app for mobile on flutter framework. <br />
 💻 I make UI/UX for mobile or PC on figma <br />
-💻 I make logo for business,company on Photoshop,Illustrator <br />
 ❤️ I work remotely and like to travel a lot.
 
 
